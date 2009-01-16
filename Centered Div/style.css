@@ -1,0 +1,13 @@
+body {
+  background: #777;
+  margin: 0;
+  text-align: center; /* for IE5/Win */
+}
+
+.content {
+  background: #999;
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  text-align: left; /* for IE5/Win */
+}
